@@ -2,18 +2,34 @@
 
 ---
 
-### Hi there 👋
-<!--
-**mvallido/mvallido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Michael 👋
 
-Here are some ideas to get you started:
+I focus on architecting and improving workflow processes by building tools across the full stack. My experience includes building with JavaScript and Python frameworks and extensive work within the Salesforce cloud. I'm equally passionate about minimal designs, burritos, and climbing real and plastic rocks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/michael-vallido/)!
+
+## 🧰 Toolbox
+
+**Languages:** 
+- `Python` `JavaScript` `TypeScript` `Java` `Apex`
+
+**Frontend:** 
+- `React` `Next` `Vue`
+- **Salesforce:** `Lightning Web Components (LWCs)`
+- **Styling:** `Tailwind`
+- **Animation:** `GSAP` `Framer Motion`
+
+**Backend:** 
+- `Flask` `Express` `GraphQL`
+- **Salesforce:** `APIs` `Apex` `Triggers` `SOQL` `Flows`
+
+**Databases:** 
+- `MySQL` `PostgreSQL` `Redis`
+
+**DevOps/Cloud:** 
+- `Docker` `AWS`
+
+**Tools/Other:** 
+- `Cypress` `Jest` `Postman`
